@@ -1,0 +1,16 @@
+.userInfo {
+    width: 60%;
+    text-align: left;
+    margin: 0 auto;
+    color: gray;
+}
+.userInfo p span {
+    display: block;
+    color: black;
+}
+
+h1 {
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+}
